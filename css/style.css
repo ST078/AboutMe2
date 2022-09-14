@@ -1,0 +1,97 @@
+body {
+	font-family: Verdana;
+	background-image: url("../img/Background.jpg");
+	font-size: 12px;
+	margin: 0px auto;
+}
+
+main{
+	width: 50%;
+	margin: auto;
+	padding: 25px;
+	background-color: palegoldenrod;
+	border: 2px black solid;
+	align-self: center;
+}
+
+p {
+	margin-top: 12px;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+table {
+	vertical-align: top;
+	text-align: left;
+	table-layout: fixed;
+	width: 90%;
+	border-collapse: collapse;
+	border-spacing: 0;
+	padding: 50%;
+	border: lightgray solid;
+	background-image: url("../img/Background.jpg");
+	
+}
+
+table th {
+	width: 100%;
+	text-align: center;
+	border-bottom: solid;
+	border-color: lightgray;
+}
+
+table td {
+	border-bottom: solid;
+	border-color: lightgray;
+}
+
+img {
+	display: inline;
+	margin: 0;
+	float: right;
+	width: 50%;
+	border: 2px white solid;
+	box-shadow: 2px 4px 6px;
+}
+
+h2 {
+	margin-top: 20px;
+}
+
+
+#title {
+	text-align: center;
+	font-family: cursive;
+	size: 30pt;
+	text-decoration: underline;
+	background-color: lightpink;
+}
+
+.ind {
+	text-indent: 30px;
+}
+.WP {
+	background-color: lightblue;
+}
+
+.Math {
+	background-color: lightgoldenrodyellow;
+}
+
+.Voll {
+	background-color: whitesmoke;
+}
+
+.FitLife {
+	background-color: lightpink;
+}
+
+.COA {
+	background-color: lightsalmon;
+}
